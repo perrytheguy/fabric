@@ -3,7 +3,7 @@ What's Offered?
 
 The getting started example uses Docker images to generate the Fabric
 network components.  The scenario includes a consortium of three 
-members, each managing and maintaing a peer node, as well as a "SOLO"
+members, each managing and maintaining a peer node, as well as a "SOLO"
 :ref:`Ordering-Service` and a Certificate Authority (CA). The cryptographic identity
 material, based on standard PKI implementation, has been pre-generated
 and is used for signing + verification on both the server (peer + ordering service) 
